@@ -31,7 +31,8 @@ Este é um projeto sem fins lucrativos desenvolvido em parceria com o departamen
 
 <img src="/presentation/Usuarios.png">
 
-* Consulta de Balanço Mensal
+* Consulta de Balanço Mensal 
+(O botão exportar gera um relatório em PDF)
 
 <img src="/presentation/BalancoMensal.png">
 
