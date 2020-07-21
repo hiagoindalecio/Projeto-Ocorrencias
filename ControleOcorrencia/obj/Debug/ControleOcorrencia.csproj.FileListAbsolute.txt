@@ -1,0 +1,372 @@
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_RelOcorrencia.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_RelOcorrencia.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_saidaOcorrencia.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_saidaOcorrencia.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_saidaOcorrencia.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\alexandre.souza.PMC\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\MySql.Data.DLL
+\\100.111.11.250\nas\TI\Tecnologia de Informatica\Softwares\Alexandre\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+\\100.111.11.250\nas\TI\Tecnologia de Informatica\Softwares\Alexandre\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+\\100.111.11.250\nas\TI\Tecnologia de Informatica\Softwares\Alexandre\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+\\100.111.11.250\nas\TI\Tecnologia de Informatica\Softwares\Alexandre\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.souza\Desktop\ControleOcorrencia v1.1 - Cópia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\MySql.Data.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\MySql.Data.dll
+D:\ControleOcorrencia v1.2\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+D:\ControleOcorrencia v1.2\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+D:\ControleOcorrencia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+D:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+E:\ControleOcorrencia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+E:\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+E:\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+E:\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\MySql.Data.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia - Copia\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\itextsharp.dll
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\bin\Debug\itextsharp.xml
+C:\Users\hiago.indalecio\Documents\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojResolveAssemblyReference.cache
+Z:\Projects\ControleOcorrencia\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+Z:\Projects\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+Z:\Projects\ControleOcorrencia\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.config
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.pdb
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe.manifest
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\ControleOcorrencia.application
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\ControleOcorrencia.exe
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\ControleOcorrencia.pdb
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\itextsharp.dll
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\MySql.Data.dll
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\Zen.Barcode.Core.dll
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\bin\Debug\itextsharp.xml
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Atendimento.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Consulta.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadDept.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadOcorrencias.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_CadUser.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Config.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Depts.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EditarResp.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirOficio.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_EmitirQRCode.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Login.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Ocorrencias.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Principal.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Procedimentos.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Relatorio_Mensal.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Saida.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Finalizar_Ocorrencia.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_TrocarSenha.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.form.FRM_Users.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.Properties.Resources.resources
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.GenerateResource.Cache
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.exe.manifest
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.application
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.csprojAssemblyReference.cache
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.CoreCompileInputs.cache
+Z:\Projects\Projeto-Ocorrencias\ControleOcorrencia\obj\Debug\ControleOcorrencia.csproj.CopyComplete
