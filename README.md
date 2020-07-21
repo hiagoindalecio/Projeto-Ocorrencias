@@ -13,29 +13,29 @@ Este é um projeto sem fins lucrativos desenvolvido em parceria com o departamen
  
  * Login
  
-<img src="\presentation\Login.png">
+<img src="/presentation/Login.png">
 
 * Ocorrencias
 
-<img src="\presentation\Ocorrencias.png">
+<img src="/presentation/Ocorrencias.png">
 
 * Atendimento
 
-<img src="\presentation\Atendimento.png">
+<img src="/presentation/Atendimento.png">
 
 * Departamentos
 
-<img src="\presentation\Departamentos.png">
+<img src="/presentation/Departamentos.png">
 
 * Usuarios 
 
-<img src="\presentation\Usuarios.png">
+<img src="/presentation/Usuarios.png">
 
 * Consulta de Balanço Mensal
 
-<img src="\presentation\BalancoMensal.png">
+<img src="/presentation/BalancoMensal.png">
 
 * Configurar
 
-<img src="\presentation\Configurar.png">
+<img src="/presentation/Configurar.png">
    
